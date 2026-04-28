@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [2544-alternating-digit-sum](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
