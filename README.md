@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0283-move-zeroes) |
+| [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -25,8 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
