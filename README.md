@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0258-add-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2544-alternating-digit-sum) |
 ## Two Pointers
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
