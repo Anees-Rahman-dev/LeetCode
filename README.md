@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0258-add-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2544-alternating-digit-sum) |
+| [2652-sum-multiples](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2652-sum-multiples) |
 ## Two Pointers
 |  |
 | ------- |
