@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0682-baseball-game) |
 | [1672-richest-customer-wealth](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2032-two-out-of-three](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
+| [2032-two-out-of-three](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2032-two-out-of-three) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
+| [2032-two-out-of-three](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2032-two-out-of-three) |
 | [3668-restore-finishing-order](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
