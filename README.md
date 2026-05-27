@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
