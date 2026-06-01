@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0682-baseball-game) |
+| [0905-sort-array-by-parity](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1672-richest-customer-wealth](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
