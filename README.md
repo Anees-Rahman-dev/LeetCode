@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
