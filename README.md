@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1672-richest-customer-wealth](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
