@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [2427-number-of-common-factors](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2469-convert-the-temperature) |
