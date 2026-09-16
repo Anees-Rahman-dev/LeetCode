@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1683-invalid-tweets) |
