@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1667-fix-names-in-a-table) |
