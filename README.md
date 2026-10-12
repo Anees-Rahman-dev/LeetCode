@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
 | [3467-transform-array-by-parity](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## String Matching
 |  |
@@ -194,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-employees-whose-manager-left-the-company](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3570-find-books-with-no-available-copies](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
