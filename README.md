@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2032-two-out-of-three) |
 | [3668-restore-finishing-order](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1816-truncate-sentence) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3467-transform-array-by-parity](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## String Matching
 |  |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
