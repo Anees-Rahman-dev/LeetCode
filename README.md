@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1089-duplicate-zeros](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1816-truncate-sentence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1089-duplicate-zeros](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
