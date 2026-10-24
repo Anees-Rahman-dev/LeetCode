@@ -3,9 +3,9 @@ public class Solution {
         
         int result = 0;
 
-        for(int i = 0; i < columnTitle.Length; i++)
+        foreach(char ch in columnTitle)
         {
-           int value = columnTitle[i] - 'A' + 1;
+           int value = ch - 'A' + 1;
 
            result = result * 26 + value;
         }
