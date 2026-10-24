@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0412-fizz-buzz) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0412-fizz-buzz) |
