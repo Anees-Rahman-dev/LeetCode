@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2032-two-out-of-three) |
 ## Math
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
