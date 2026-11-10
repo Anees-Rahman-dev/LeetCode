@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0645-set-mismatch) |
 | [2032-two-out-of-three](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2032-two-out-of-three) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3668-restore-finishing-order](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## String Matching
 |  |
