@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
@@ -232,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -244,5 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anees-Rahman-dev/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
